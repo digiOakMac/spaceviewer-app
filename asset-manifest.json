@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spaceviewer-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/spaceviewer-app/static/js/main.fd74e373.chunk.js",
+    "main.js.map": "/spaceviewer-app/static/js/main.fd74e373.chunk.js.map",
+    "runtime-main.js": "/spaceviewer-app/static/js/runtime-main.c304b414.js",
+    "runtime-main.js.map": "/spaceviewer-app/static/js/runtime-main.c304b414.js.map",
+    "static/js/2.0c58d0a2.chunk.js": "/spaceviewer-app/static/js/2.0c58d0a2.chunk.js",
+    "static/js/2.0c58d0a2.chunk.js.map": "/spaceviewer-app/static/js/2.0c58d0a2.chunk.js.map",
+    "index.html": "/spaceviewer-app/index.html",
+    "precache-manifest.bc085951735f18b022e3b4c732d9b37a.js": "/spaceviewer-app/precache-manifest.bc085951735f18b022e3b4c732d9b37a.js",
+    "service-worker.js": "/spaceviewer-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/spaceviewer-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0c58d0a2.chunk.js.LICENSE": "/spaceviewer-app/static/js/2.0c58d0a2.chunk.js.LICENSE",
+    "static/media/logo.svg": "/spaceviewer-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c304b414.js",
+    "static/js/2.0c58d0a2.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fd74e373.chunk.js"
+  ]
+}
