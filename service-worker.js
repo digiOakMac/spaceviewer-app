@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spaceviewer-app/precache-manifest.bc085951735f18b022e3b4c732d9b37a.js"
+  "/spaceviewer-app/precache-manifest.3c2112fca7d13c0e3a24231ff8a763b8.js"
 );
 
 self.addEventListener('message', (event) => {
